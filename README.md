@@ -11,4 +11,4 @@ We'll be making a lot of use of:
 And in case you hadn't noticed, the national [Code Club](https://www.codeclub.org.uk/) organisation is now [part of](https://www.raspberrypi.org/blog/putting-a-code-club-in-every-community/) the [Raspberry Pi Foundation](https://www.raspberrypi.org).
 
 # Spring 2016
- * [Session 1](2016_01_11_session_1) 11/1/2016 - in which we put together the RPi and started some simple Minecraft coding
+ * [Session 1](2016_01_11_session_1): 11/1/2016 - in which we put together the RPi and started some simple Minecraft coding

@@ -14,7 +14,7 @@ If you want to buy your own Raspberry Pi (and all sorts of other extra bits) you
 
 Don't forget you will need a monitor/TV with an HDMI socket.
 
-If 'coding' is not enough of a reason then remember that the RPi will run a version of [LibreOffice](http://www.raspberryconnect.com/officesoftware/item/125-libreoffice-raspberry-pi) (a close relation of OpenOffice) so you can do 'ordinary' homework too :-)
+If 'coding' is not enough of a reason then remember that the RPi will run a version of [LibreOffice](http://www.raspberryconnect.com/officesoftware/item/125-libreoffice-raspberry-pi) (a close relative of OpenOffice) so you can do 'ordinary' homework too :-)
 
 And in case you hadn't noticed, the national [Code Club](https://www.codeclub.org.uk/) organisation is now [part of](https://www.raspberrypi.org/blog/putting-a-code-club-in-every-community/) the [Raspberry Pi Foundation](https://www.raspberrypi.org).
 

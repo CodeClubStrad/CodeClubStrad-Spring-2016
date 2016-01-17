@@ -1,6 +1,6 @@
 # Session 2
 In which we:
- * learn how to set up a proxy for a Raspberry Pi so it can connect to the internet:
+ * learn how to set up a proxy for a Raspberry Pi so it can connect to the internet from the school network:
   * see instructions on the [Pinet site](http://pinet.org.uk/articles/advanced/web-filtering.html#raspbian)
   1. Open a terminal on the Ubuntu server and enter sudo ltsp-chroot --arch armhf to enter the Raspbian chroot.
   2. Enter nano /etc/apt/apt.conf.d/10proxy to create a text file there and open it with the nano text editor.

@@ -5,7 +5,7 @@ In which we:
   1. Open a terminal on the Ubuntu server and enter `sudo ltsp-chroot --arch armhf` to enter the Raspbian chroot.
   2. Enter `nano /etc/apt/apt.conf.d/10proxy` to create a text file there and open it with the nano text editor.
   3. Add in `Acquire::http::Proxy "http://proxy.gfl.suffolk.org.uk:8083"` and save it
-  4. Possibly reboot the Pi using `sudo reboot'
+  4. Possibly reboot the Pi using `sudo reboot`
   5. Test using the web browser - can you see https://github.com/CodeClubStrad/sessions/tree/master/2016_01_18_session_2?
 
 And then we:

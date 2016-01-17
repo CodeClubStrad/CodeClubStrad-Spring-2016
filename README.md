@@ -20,4 +20,4 @@ And in case you hadn't noticed, the national [Code Club](https://www.codeclub.or
 
 ## Spring 2016
  * [Session 1](2016_01_11_session_1): 11/1/2016 - in which we put together the RPi and start some simple Minecraft coding
- * [Session 2](2016_01_18_session_2): 18/1/2016 - in which we ...
+ * [Session 2](2016_01_18_session_2): 18/1/2016 - in which we do some more Minecraft coding and try to catch players in an ice cage

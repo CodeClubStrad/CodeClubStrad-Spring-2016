@@ -10,6 +10,7 @@ And then we:
  * use the console to [send chat](https://arghbox.files.wordpress.com/2014/04/chat_a5.pdf) and learn how to end a while loop with a specified command
  * use an if statement to test of the player is on water and if so, [freeze it](https://arghbox.files.wordpress.com/2014/04/freeze_a5.pdf)!
  * combine these to catch your player inside a block of ice and give a text feedback when they're caught.
+ 
  Once we've done that we all join the same world and:
  * use the console to practice getting a list of users
  * write a programme to catch all of them in blocks of ice before they can smash their way out!

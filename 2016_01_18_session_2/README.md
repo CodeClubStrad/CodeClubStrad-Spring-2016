@@ -6,7 +6,7 @@ In which we:
   2. Enter `nano /etc/apt/apt.conf.d/10proxy` to create a text file there and open it with the nano text editor.
   3. Add in `Acquire::http::Proxy "http://proxy.gfl.suffolk.org.uk:8083"` and save it
   4. Possibly reboot the Pi using `sudo reboot'
-  5. Test using the web browser - can you see `https://github.com/CodeClubStrad/sessions/tree/master/2016_01_18_session_2`?
+  5. Test using the web browser - can you see https://github.com/CodeClubStrad/sessions/tree/master/2016_01_18_session_2?
 
 And then we:
  * make a (hollow) [room](https://arghbox.files.wordpress.com/2014/04/warehouse_a5.pdf)

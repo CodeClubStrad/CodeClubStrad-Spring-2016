@@ -9,7 +9,7 @@ But the two functions have the same names. We thought the function might count i
 So maybe there is a typo in the api-reference. Perhaps it should read:
  * `mc.entity.setPos(entityId,0.0,0.0,0.0)`
 
-This seems to work - we can manipulate both ourselves (as we would with `mc.player.setPos(0.0,0.0,0.0)`) and we can also move another player. Or at least the 'other' players we see in our world appear to move. BUT they do not move at their own client end. So we think we've moved them and tracking their position using mc.entity.getPos(entityID) confirms that our Minecraft client (and thus our world view) thinks they've been moved. But as far as their user is concerned, nothing happens!
+This seems to work - we can manipulate both ourselves (as we would with `mc.player.setPos(0.0,0.0,0.0)`) and we can also move another player. Or at least the 'other' players we see in our world appear to move. BUT they do not move at their own client end. So we think we've moved them and tracking their position using `mc.entity.getPos(entityID)` confirms that our Minecraft client (and thus our world view) thinks they've been moved. But as far as their user is concerned, nothing happens!
 
 (A possibly relevant observation: if we move the other player up into the sky using (e.g.) `mc.entity.setPos(entityId,20,20,20)`, they do not then fall to the ground...!)
 

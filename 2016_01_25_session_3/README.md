@@ -1,7 +1,7 @@
 # Session 3
 In which we will:
  * develop some defenses to keep other players out of our world
- # devleop some traps so if they do come into our world, we will do stuff to them
+ * devleop some traps so if they do come into our world, we will do stuff to them
 
 Remembering that:
  * we need to comment our code!

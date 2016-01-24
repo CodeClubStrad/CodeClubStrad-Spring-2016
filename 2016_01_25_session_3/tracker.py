@@ -17,6 +17,13 @@ mc = minecraft.Minecraft.create()
 while True:
 	# get the list of players (could be just 1)
     playerIDs = mc.getPlayerEntityIds() # playerIDs will be a list of 1 or more IDs
+    
+    if len(playerIDs) > 1: 
+    	# check the length of the variable playerIDs - if there's more than 1 ID in the
+    	# list then we must have an intruder
+        #print("Intruders!") # print to the shell if you wish 
+        mc.postToChat("Intruders!") # give warning to Minecraft chat (tends to mask the screen)
+
     for player in playerIDs: # loop over each player ID 
         pos = mc.entity.getPos(player) # check where this player is
         print("Player %s now at: %s" % (player,pos)) # print out where they are to the shell

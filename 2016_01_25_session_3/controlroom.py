@@ -1,6 +1,6 @@
 # controlroom.py
 # https://github.com/CodeClubStrad/CodeClubStrad-Spring-2016/blob/master/2016_01_25_session_3/tracker.py
-# Python code to attack players 
+# Python code to set up classes of functions to attack players 
 # Code: @developius
 # with inspiration from:
 # - https://arghbox.wordpress.com/2014/04/25/minecraft-pi-recipe-cards/
@@ -178,7 +178,7 @@ class ControlRoom:
         circlePath = {"coords": []}
         for i in range(0,361):
             ri = math.radians(i)
-            x = ox + r * math.cos(ri)
+            x = ox + r * math.cos(ri) # oh very clever :-)
             z = oz + r * math.sin(ri)
             circlePath['coords'].append(Vec3(x,oy,z))
         return(circlePath)

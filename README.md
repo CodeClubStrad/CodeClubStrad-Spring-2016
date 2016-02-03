@@ -8,9 +8,9 @@ For Minecraft Pi we'll be making a lot of use of:
 * some very useful [FlashCards](http://blog.whaleygeek.co.uk/wp-content/uploads/2013/06/minecraftPi-flashcards.pdf) from [@whaleygeek](https://twitter.com/whaleygeek)
 * and the excellent [Adventures in Minecraft](http://www.stuffaboutcode.com/p/adventures-in-minecraft.html) from [@whaleygeek](https://twitter.com/whaleygeek) and [@martinohanlon](https://twitter.com/martinohanlon)
 
-For SonicPi we'll be trying out:
- * 
- * 
+For SonicPi we'll be:
+ * testing out some 'lessons' from [Raspberry Pi](https://www.raspberrypi.org/learning/sonic-pi-lessons/lessons/)
+ * just playing - this is CodeClub and not school after all :-)
 
 If you want to buy your own Raspberry Pi (and all sorts of other extra bits) you can try:
  * [Raspberry Pi Foundation](https://www.raspberrypi.org/products/)

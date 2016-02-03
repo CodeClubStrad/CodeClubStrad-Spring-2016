@@ -2,7 +2,7 @@
 In which we:
  * Part I - SonicPi
   * Attempted to run the pre-installed SonicPi but discovered it is v2.4 and won't run.
-  * Persuaded @developius to spend the rest of the evening updating all the SD cards with the latest distros of everything!
+  * Persuaded [@developius](https://twitter.com/developius/) to spend the rest of the evening updating all the SD cards with the latest distros of everything!
  
  * Part II: Reverted to pythoning Minecraft Pi
   * Tracking our player using `mc.player.getPos()` - works 

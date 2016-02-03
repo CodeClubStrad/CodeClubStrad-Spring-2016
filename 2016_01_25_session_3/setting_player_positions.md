@@ -1,3 +1,5 @@
+# Note no longer updated. Please see more [recent note](../MinecraftPi_entity_issues.md) #
+
 # Setting player positions in multi-player games
 According to http://www.stuffaboutcode.com/p/minecraft-api-reference.html there are two ways to do this:
  * `mc.player.setPos(0.0,0.0,0.0)` - which can only set the 'home' player's location (i.e. the player whose game we're connected to via the API)

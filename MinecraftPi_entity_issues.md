@@ -26,6 +26,6 @@ This seems to work - we can teleport both the 'home' player (as we would with `m
 ## Creating/changing blocks in multi-player Minecraft Pi games
 If we can't actually move 'away' players then perhaps we can just trap them by making holes under them or encasing them in blocks?
 
-Unfortunately this appears not to work either. Any blocks created (or converted to air) by the API remain invisible to (and have no effect on) 'away' players after they have joined the world. However blocks created before the 'away' player joins the world are visible.
+Unfortunately this appears not to work either. Any blocks created (or converted to air) by the API after 'away players have joined the world seem to remain invisible to (and have no effect on) 'away' players. However blocks created before the 'away' player joins the world are visible to them.
 
 Update - we are not sure if this is true in all situations and are trying to systematically replicate and document what does and does not work!

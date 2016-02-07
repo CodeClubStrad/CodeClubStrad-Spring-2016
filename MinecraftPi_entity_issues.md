@@ -1,6 +1,6 @@
 # Experiments with MinecraftPi entities & python
 
-Context: Minecraft Pi & Python (IDLE 2) runnng on Debian (?) v? on Raspberry Pi Model B purchased December 2015
+Context: Minecraft Pi & Python (IDLE 2) runnng on `Linux pimine 4.1.7-v7+ #817 SMP PREEMPT armv7l GNU/Linux` on a Raspberry Pi Model B purchased December 2015
 
 Ref: http://www.stuffaboutcode.com/p/minecraft-api-reference.html
 

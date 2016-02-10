@@ -1,5 +1,5 @@
 # This is a comment - they are very useful for making sense of your code
-# Lay a flower trail behind the player
+# Lay an ice trail behind the player
 # Inspired by:
 # Craig Richardson's fantastic https://arghbox.wordpress.com/2014/04/25/minecraft-pi-recipe-cards/
 

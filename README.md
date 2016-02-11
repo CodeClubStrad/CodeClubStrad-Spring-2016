@@ -10,6 +10,7 @@ For Minecraft Pi we'll be making a lot of use of:
 
 For SonicPi we'll be:
  * testing out some 'lessons' from [Raspberry Pi](https://www.raspberrypi.org/learning/sonic-pi-lessons/lessons/)
+ * [Music Live Coding](http://www.sonicpiliveandcoding.com/)
  * just playing - this is CodeClub and not school after all :-)
  * using the [non-broken bits](MinecraftPi_entity_issues.md) of the minecraft API to link SonicPi to MinecraftPi
 

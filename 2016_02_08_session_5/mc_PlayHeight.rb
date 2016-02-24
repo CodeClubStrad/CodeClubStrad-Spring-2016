@@ -8,7 +8,8 @@ live_loop :mc_playHeight do
   # We could play the note that matches the y location:
   # play mc_location[1]
   # Why does this often not work?  
-  # Correct - midi notes lie in the range 0 - 127 but -128 < y < 128
+  # Correct - midi notes lie in the range 0 - 127 (http://www.electronics.dit.ie/staff/tscarff/Music_technology/midi/midi_note_numbers_for_octaves.htm)
+  # but -128 < y < 128
   # Also you probably can't hear anything outside the range 50 - 110 (depending how old you are :-)
   # So we need to transform the y value into something more helpful
 

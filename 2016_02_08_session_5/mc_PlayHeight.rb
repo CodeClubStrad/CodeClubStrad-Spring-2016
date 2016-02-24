@@ -13,7 +13,7 @@ live_loop :mc_playHeight do
   # Also you probably can't hear anything outside the range 50 - 110 (depending how old you are :-)
   # So we need to transform the y value into something more helpful
 
-  # Let's assume 90 is the middle of the range we can hear
+  # Let's assume 90 is the middle of the range we can hear.
   # MinecraftPi is -128 < y < 128 (a small world :-)
   # So take the value of y and work out it's proportion of 128 (max depth/height)
   # Find the note that is that proportion of half our range (30)

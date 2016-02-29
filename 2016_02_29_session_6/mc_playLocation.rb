@@ -14,7 +14,7 @@
 mc_message "Hello from Sonic Pi"
 
 live_loop :mc_playLocation do
-  # post a message to Minecraft to prove the connection is working
+  # put our location x,y,z values into a variable - saves connecting to minecraft lots of times
   myLoc = mc_location
 
   # Turn x into a useful pan value

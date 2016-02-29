@@ -1,5 +1,7 @@
 # Code Club Strad: Spring 2016
-Contains all code week by week for the [Stradbroke High School](http://www.stradbrokehigh.co.uk/) Code Club during the spring term 2016. We'll be using Raspberry Pis to do all sorts of fun things including:
+Contains all code week by week for the [Stradbroke High School](http://www.stradbrokehigh.co.uk/) Code Club during the spring term 2016. Note that the code can be re-used widely under the [MIT License](License.md).
+
+We'll be using Raspberry Pis to do all sorts of fun things including:
  * Programming [Minecraft](http://pi.minecraft.net/) with [Python](http://www.stuffaboutcode.com/p/minecraft.html)
  * Programmable music with [SonicPi](http://sonic-pi.net/)
 

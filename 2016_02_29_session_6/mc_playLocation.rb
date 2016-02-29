@@ -34,9 +34,9 @@ live_loop :mc_playLocation do
   puts myLoc
 
   # the converted values get printed by play to the console anyway
- 
-  # Now play the note
+  # now play the note
   play yNote, pan: xPan, amp: zAmp, release: 0.5
+
   # Wait 1/2 a second
   sleep 0.5
 end

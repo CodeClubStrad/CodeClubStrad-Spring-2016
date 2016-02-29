@@ -1,5 +1,7 @@
 # mc_playLocation
-# (c) 2016 @dataknut CC-BY-NC
+# Author: @dataknut
+# License: https://github.com/CodeClubStrad/CodeClubStrad-Spring-2016/blob/master/LICENSE.md
+
 # A simple SonicPi live loop to play a note that represents
 # our Minecraft Pi location (x,y,z) values
 # uses pan (left vs right speaker) for x - see 2.2 Synth Options

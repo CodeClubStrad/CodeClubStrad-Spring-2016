@@ -1,5 +1,7 @@
 # playAllNotesLiveLoop
-# @dataknut
+# Author: @dataknut
+# License: https://github.com/CodeClubStrad/CodeClubStrad-Spring-2016/blob/master/LICENSE.md
+
 # An improvement on the 'for' loop:
 # A simple SonicPi live_loop used to play a sequence of increasing midi notes
 # In this case we have to stop (break) the loop at note 127

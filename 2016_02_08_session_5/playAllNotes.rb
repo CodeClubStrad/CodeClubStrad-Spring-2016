@@ -1,5 +1,7 @@
 # playAllNotes
-# @dataknut
+# Author: @dataknut
+# License: https://github.com/CodeClubStrad/CodeClubStrad-Spring-2016/blob/master/LICENSE.md
+
 # A simple SonicPi for loop used to play a sequence of increasing midi notes
 # Try running it...
 # When can you start to hear the note?

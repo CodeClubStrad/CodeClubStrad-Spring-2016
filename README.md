@@ -28,6 +28,7 @@ And in case you hadn't noticed, the national [Code Club](https://www.codeclub.or
  * [Session 2](2016_01_18_session_2): 18/1/2016 - in which we do some more Minecraft coding and try to catch players in an ice cage
  * [Session 3](2016_01_25_session_3): 25/1/2016 - in which we develop some Minecraft Pi defenses and traps and discover that [all is not well with Minecraft Pi entities](MinecraftPi_entity_issues.md)
  * [Session 4](2016_02_01_session_4): 1/2/2016 - in which we try to run SonicPi but discover we need to upgrade the version (2.4 -> 2.9) that came with our Pis. Instead we revert to pythoning Minecraft Pi and continue to hit [problems with entities](MinecraftPi_entity_issues.md)
- * [Session 5](2016_02_08_session_5): 8/2/2016 - in which we try to run SonicPi (again)
+ * [Session 5](2016_02_08_session_5): 8/2/2016 - in which we try to explore SonicPi (again)
+ * [Session 6](2016_02_29_session_6): 29/2/2016 - in which we connect SonicPi to MinecraftPi
 
 

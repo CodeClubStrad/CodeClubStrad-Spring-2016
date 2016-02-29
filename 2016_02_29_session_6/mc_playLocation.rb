@@ -11,7 +11,7 @@ live_loop :mc_playLocation do
   mc_message "Hello from Sonic Pi"
   
   # Turn x into a useful pan value
-  # Pan has the ranhe -1 (left) to 1 (right)
+  # Pan has the range -1 (left) to 1 (right)
   # Use the fact that the MinecraftPi world goes from -128 to 128 on any dimension
   # this should create a value between -1 and +1
   xPan = mc_location[0]/128
@@ -20,6 +20,7 @@ live_loop :mc_playLocation do
   yNote = 90 + (mc_location[1]/128)*30
 
   # Turn z in to a useful amp value - between 0 (no sound) -> 1 (normal) and 2 (loud)
+  # See how we have to use .abs to always give a positive value
   zAmp = (mc_location[2].abs/128)*2
 
   puts xPan yNote zAmp

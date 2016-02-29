@@ -1,10 +1,15 @@
 # mc_PlayHeight
+# (c) 2016 @dataknut CC-BY-NC
 # A simple SonicPi live loop to play a note that represents
 # our Minecraft Pi height (y) value - a higher note will represent being higher up in the world
-# @dataknut
+
+# Set this loop running and then move around in MinecraftPi
+
+# post a message to Minecraft to prove the connection is working
+mc_message "Hello from Sonic Pi"
+
 live_loop :mc_playHeight do
-  # post a message to Minecraft to prove the connection is working
-  mc_message "Hello from Sonic Pi"
+
   
   # what's our location?
   puts mc_location

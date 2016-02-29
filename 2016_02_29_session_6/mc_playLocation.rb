@@ -31,10 +31,10 @@ live_loop :mc_playLocation do
   zAmp = (myLoc[2].abs/128)*2
 
   # print location
-  puts "MinecraftPi: x =", myLoc[0],"y =", myLoc[1],"z =", myLoc[2]
-  # print the converted values
-  puts "xPan =", xPan, ", yNote =", xPan, ", zAmp =", zAmp
+  puts myLoc
 
+  # the converted values get printed by play to the console anyway
+ 
   # Now play the note
   play yNote, pan: xPan, amp: zAmp, release: 0.5
   # Wait 1/2 a second

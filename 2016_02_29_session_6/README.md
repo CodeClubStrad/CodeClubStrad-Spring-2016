@@ -2,7 +2,7 @@
 In which we attempt to connect Sonic Pi to MinecraftPi. SonicPi will automatically connect to MinecraftPi if it is running…
 
 ## Basic SonicPi <-> MinecraftPi functions
-Look at Section 11 of the SonicPi Tutorials:
+Look at [Section 11](https://github.com/samaaron/sonic-pi/blob/master/etc/doc/tutorial/en/11.1-Basic-API.md) of the SonicPi Tutorials:
 * `mc_message “text”`
  * -> sends a message to the MinecraftPi chat
 * `mc_location`

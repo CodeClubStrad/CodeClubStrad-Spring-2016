@@ -7,7 +7,7 @@ live_loop :mc_playHeight do
   mc_message "Hello from Sonic Pi"
   
   # what's our location?
-  puts mc_location[1]
+  puts mc_location
   
   # We could play the note that matches the y location:
   # play mc_location[1]

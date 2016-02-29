@@ -15,24 +15,25 @@ mc_message "Hello from Sonic Pi"
 
 live_loop :mc_playLocation do
   # post a message to Minecraft to prove the connection is working
- 
+  myLoc = mc_location
+
   # Turn x into a useful pan value
   # Pan has the range -1 (left) to 1 (right)
   # Use the fact that the MinecraftPi world goes from -128 to 128 on any dimension
   # this should create a value between -1 and +1
-  xPan = mc_location[0]/128
+  xPan = myLoc[0]/128
 
   # Turn y into a useful height note (see mc_playHeight.rb)
-  yNote = 90 + (mc_location[1]/128)*30
+  yNote = 90 + (myLoc[1]/128)*30
 
   # Turn z in to a useful amp value - between 0 (no sound) -> 1 (normal) and 2 (loud)
   # See how we have to use .abs to always give a positive value
-  zAmp = (mc_location[2].abs/128)*2
+  zAmp = (myLoc[2].abs/128)*2
 
   # print location
-  puts mc_location
+  puts "MinecraftPi: x =", myLoc[0],"y =", myLoc[1],"z =", myLoc[2]
   # print the converted values
-  puts "xPan =", xPan, "yNote =", xPan, "zAmp =", zAmp
+  puts "xPan =", xPan, ", yNote =", xPan, ", zAmp =", zAmp
 
   # Now play the note
   play yNote, pan: xPan, amp: zAmp, release: 0.5

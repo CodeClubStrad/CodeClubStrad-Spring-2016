@@ -10,12 +10,11 @@ For Minecraft Pi we'll be making a lot of use of:
  * Craig Richardson's brilliant [learning python with Minecraft Pi](https://www.raspberrypi.org/blog/learning-python-using-codecademy/) book;
  * some very useful [FlashCards](http://blog.whaleygeek.co.uk/wp-content/uploads/2013/06/minecraftPi-flashcards.pdf) from [@whaleygeek](https://twitter.com/whaleygeek)
  * the excellent [Adventures in Minecraft](http://www.stuffaboutcode.com/p/adventures-in-minecraft.html) from [@whaleygeek](https://twitter.com/whaleygeek) and [@martinohanlon](https://twitter.com/martinohanlon)
- * and we might even try [tracking Major Tim](https://damianmooney.wordpress.com/2016/02/16/raspberry-pi-minecraft-iss-tracker/) on the ISS but this will require breaking through the school internet barriers!
+ * and we might even try [tracking Major Tim](https://damianmooney.wordpress.com/2016/02/16/raspberry-pi-minecraft-iss-tracker/) on the ISS
 
 For SonicPi we'll be:
  * testing out some 'lessons' from [Raspberry Pi](https://www.raspberrypi.org/learning/sonic-pi-lessons/lessons/)
  * [Music Live Coding](http://www.sonicpiliveandcoding.com/)
- * just playing - this is CodeClub and not school after all :-)
  * using the [non-broken bits](MinecraftPi_entity_issues.md) of the minecraft API to link SonicPi to MinecraftPi
 
 If you want to buy your own Raspberry Pi (and all sorts of other extra bits) you can try:

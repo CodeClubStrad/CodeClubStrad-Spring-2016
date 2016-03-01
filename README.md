@@ -1,15 +1,16 @@
 # Code Club Strad: Spring 2016
 Contains all code week by week for the [Stradbroke High School](http://www.stradbrokehigh.co.uk/) Code Club during the spring term 2016. You can re-use any of the code under the [MIT License](LICENSE.md).
 
-We'll be using Raspberry Pis to do all sorts of fun things including:
+We'll be using the credit card sized Raspberry Pi computers to try:
  * Programming [Minecraft](http://pi.minecraft.net/) with [Python](http://www.stuffaboutcode.com/p/minecraft.html)
- * Programmable music with [SonicPi](http://sonic-pi.net/)
+ * Programming music with [SonicPi](http://sonic-pi.net/)
+ * Linking them together to do SonicMinecraft :-)
 
 For Minecraft Pi we'll be making a lot of use of:
-* Craig Richardson's brilliant [learning python with Minecraft Pi](https://www.raspberrypi.org/blog/learning-python-using-codecademy/) book;
-* some very useful [FlashCards](http://blog.whaleygeek.co.uk/wp-content/uploads/2013/06/minecraftPi-flashcards.pdf) from [@whaleygeek](https://twitter.com/whaleygeek)
-* the excellent [Adventures in Minecraft](http://www.stuffaboutcode.com/p/adventures-in-minecraft.html) from [@whaleygeek](https://twitter.com/whaleygeek) and [@martinohanlon](https://twitter.com/martinohanlon)
-* and we might even try [tracking Major Tim](https://damianmooney.wordpress.com/2016/02/16/raspberry-pi-minecraft-iss-tracker/) on the ISS but this will require breaking through the school internet barriers!
+ * Craig Richardson's brilliant [learning python with Minecraft Pi](https://www.raspberrypi.org/blog/learning-python-using-codecademy/) book;
+ * some very useful [FlashCards](http://blog.whaleygeek.co.uk/wp-content/uploads/2013/06/minecraftPi-flashcards.pdf) from [@whaleygeek](https://twitter.com/whaleygeek)
+ * the excellent [Adventures in Minecraft](http://www.stuffaboutcode.com/p/adventures-in-minecraft.html) from [@whaleygeek](https://twitter.com/whaleygeek) and [@martinohanlon](https://twitter.com/martinohanlon)
+ * and we might even try [tracking Major Tim](https://damianmooney.wordpress.com/2016/02/16/raspberry-pi-minecraft-iss-tracker/) on the ISS but this will require breaking through the school internet barriers!
 
 For SonicPi we'll be:
  * testing out some 'lessons' from [Raspberry Pi](https://www.raspberrypi.org/learning/sonic-pi-lessons/lessons/)

@@ -26,7 +26,7 @@ If 'coding' is not a good enough reason to buy one (really?!) then remember the 
 
 And in case you hadn't noticed, the national [Code Club](https://www.codeclub.org.uk/) organisation is now [part of](https://www.raspberrypi.org/blog/putting-a-code-club-in-every-community/) the [Raspberry Pi Foundation](https://www.raspberrypi.org).
 
-## Spring 2016
+## Week by week
  * [Session 1](2016_01_11_session_1): 11/1/2016 - in which we put together the RPi and start some simple Minecraft coding
  * [Session 2](2016_01_18_session_2): 18/1/2016 - in which we do some more Minecraft coding and try to catch players in an ice cage
  * [Session 3](2016_01_25_session_3): 25/1/2016 - in which we develop some Minecraft Pi defenses and traps and discover that [all is not well with Minecraft Pi entities](MinecraftPi_entity_issues.md)

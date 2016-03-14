@@ -18,6 +18,7 @@ live_loop :block_storm do
   sleep 0.5
 end
 
+# just to give a backgorund beat...
 live_loop :beats do
   sample :bd_haus, amp:2, cutoff: 100
   sleep 0.5

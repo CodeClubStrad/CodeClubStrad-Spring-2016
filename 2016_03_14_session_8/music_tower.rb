@@ -8,7 +8,7 @@
 use_synth :piano
 x,y,z = mc_location
 blocks = (ring :gold, :diamond, :sand, :water, :lava)
-live_loop :sand_storm do
+live_loop :block_storm do
   rand_x = rrand(x+1,x+11)
   rand_z = rrand(z+1,z+11)
   note = rand_i(60..110)

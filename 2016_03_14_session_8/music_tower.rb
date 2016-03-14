@@ -3,7 +3,9 @@
 
 # extensions:
 # use pan to make sound go left/right depending on random value of x diff?
-# set block type based on note - e.g. if dividesd by saome number without a remainder?
+# set block type based on note - e.g. if divides by some number without a remainder?
+# experiment with different block types to have different effects
+# use some real music instead of random notes!!
 
 # just to give a background beat...
 live_loop :beats do

@@ -22,7 +22,7 @@ Look at [Section 11](https://github.com/samaaron/sonic-pi/blob/master/etc/doc/tu
   * uses amp (amplitude) for z - see 2.2 Synth Options
 
 ## More fun
-Look at the MinecraftPi/Sonic-Pi examples in Appendix A6 and A8 in the SonicPi v2.9 Tutorials. If you have version 2.7 and don't want to upgrade (why?) you can find them on [github](https://github.com/samaaron/sonic-pi/tree/master/etc/doc/tutorial/en). 
+Look at the MinecraftPi/Sonic-Pi examples in Appendix A6 and A8 in the SonicPi v2.9 Tutorials. If you have version 2.7 and don't want to upgrade (why not?) you can find them on [github](https://github.com/samaaron/sonic-pi/tree/master/etc/doc/tutorial/en). 
 
 ## Another big list of block types - useful for `mc_set_block`
 :air :stone :grass :dirt :cobblestone :wood_plank :sapling :bedrock :water_flowing :water :water_stationary :lava_flowing :lava :lava_stationary :sand :gravel :gold_ore :iron_ore :coal_ore :wood :leaves :glass :lapis :lapis_lazuli_block :sandstone :bed :cobweb :grass_tall :flower_yellow :flower_cyan :mushroom_brown :mushroom_red :gold_block :gold :iron_block :iron :stone_slab_double :stone_slab :brick :brick_block :tnt :bookshelf :moss_stone :obsidian :torch :fire :stairs_wood :chest :diamond_ore :diamond_block :diamond :crafting_table :farmland :furnace_inactive :furnace_active :door_wood :ladder :stairs_cobblestone :door_iron :redstone_ore :snow :ice :snow_block :cactus :clay :sugar_cane :fence :glowstone_block :bedrock_invisible :stone_brick :glass_pane :melon :fence_gate :glowing_obsidian :nether_reactor_core

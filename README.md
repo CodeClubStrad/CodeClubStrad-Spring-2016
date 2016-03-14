@@ -33,5 +33,7 @@ And in case you hadn't noticed, the national [Code Club](https://www.codeclub.or
  * [Session 4](2016_02_01_session_4): 1/2/2016 - in which we try to run SonicPi but discover we need to upgrade the version (2.4 -> 2.9) that came with our Pis. Instead we revert to pythoning Minecraft Pi and continue to hit [problems with entities](MinecraftPi_entity_issues.md)
  * [Session 5](2016_02_08_session_5): 8/2/2016 - in which we try to explore SonicPi (again)
  * [Session 6](2016_02_29_session_6): 29/2/2016 - in which we connect SonicPi to MinecraftPi
+ * [Session 7](2016_02_29_session_7): 07/3/2016 
+ * [Session 8](2016_03_14_session_8): 14/3/2016 - in which we use SonicPi to make musical walls and towers
 
 

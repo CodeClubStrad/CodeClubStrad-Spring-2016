@@ -1,3 +1,10 @@
+# Demonstrating creating blocks based on musical parameters
+# @dataknut
+
+# extensions:
+# use pan to make sound go left/right depending on random value of x diff?
+# set block type based on note - e.g. if dividesd by saome number without a remainder?
+
 use_synth :piano
 x,y,z = mc_location
 blocks = (ring :gold, :diamond, :sand, :water, :lava)

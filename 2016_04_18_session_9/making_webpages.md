@@ -6,7 +6,7 @@ Save this into a text file called (for example) “my_webpage.html”:
 <html>
 <head>
 <title>Title of page</title>
-<link rel="stylesheet" type="text/css" href="my_styles_v1.css">
+
 </head>
 <body>
 <h1>My heading 1</h1>
@@ -19,7 +19,10 @@ Save this into a text file called (for example) “my_webpage.html”:
 </html>
 
 ##CSS example
-Save this into a text file as (for example) “my_styles_v1.css”:
+Now add this line after the </title> tag:
+<link rel="stylesheet" type="text/css" href="my_styles_v1.css">
+
+And now save this into a text file as (for example) “my_styles_v1.css”:
 
 body {
     background-color: lightblue;
@@ -37,6 +40,8 @@ p {
     height: 300px;
     border: 1px solid Aqua;
 }
+
+Reload the webpage. What happens?
 
 ###Some colours to try
 AliceBlue

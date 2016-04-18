@@ -5,12 +5,12 @@ body {
 h1 {
     color: orange;
     text-align: center;
+    height: 100px;
+    width: 200px;
 }
 
 p {
     font-family: "Times New Roman";
     font-size: 12px;
-    width: 70px;
-    height: 300px;
     border: 1px solid Aqua;
 }

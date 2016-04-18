@@ -34,7 +34,7 @@ Now add this line after the ```</title>``` tag:
 ```html
 <link rel="stylesheet" type="text/css" href="my_styles_v1.css">
 ```
-And now save this into a text file as (for example) “my_styles_v1.css”:
+Now type this into a new text editor window:
 
 ```css
 body {
@@ -52,8 +52,11 @@ p {
     border: 1px solid AliceBlue;
 }
 ```
+Save this into a text file as called “my_styles_v1.css”.
 
-Now reload the webpage. What happens?
+Now reload the webpage. 
+
+What happens?
 
 ###Some colours to try
 ```

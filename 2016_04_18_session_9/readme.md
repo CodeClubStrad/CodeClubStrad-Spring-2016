@@ -3,7 +3,8 @@
 ##HTML example
 Save this into a text file called (for example) “my_webpage.html”:
 
-''<html>
+'''html
+<html>
 <head>
 <title>Title of page</title>
 
@@ -16,7 +17,8 @@ Save this into a text file called (for example) “my_webpage.html”:
 <p>Some more text</p>
 
 </body>
-</html>''
+</html>
+'''
 
 ##CSS example
 Now add this line after the </title> tag:
@@ -24,7 +26,8 @@ Now add this line after the </title> tag:
 
 And now save this into a text file as (for example) “my_styles_v1.css”:
 
-''body {
+'''css
+body {
     background-color: lightblue;
 }
 
@@ -37,7 +40,8 @@ p {
     font-family: "Times New Roman";
     font-size: 12px;
     border: 1px solid AliceBlue;
-}''
+}
+'''
 
 Reload the webpage. What happens?
 

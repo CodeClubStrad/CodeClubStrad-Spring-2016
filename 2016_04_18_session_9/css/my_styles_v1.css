@@ -6,11 +6,11 @@ h1 {
     color: orange;
     text-align: center;
     height: 100px;
-    width: 200px;
+    border: 1px solid AliceBlue;
 }
 
 p {
     font-family: "Times New Roman";
-    font-size: 12px;
-    border: 1px solid AliceBlue;
+    font-size: 14px;
+    border: 1px dashed Brown;
 }

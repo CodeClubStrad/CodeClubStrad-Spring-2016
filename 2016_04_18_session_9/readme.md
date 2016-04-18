@@ -44,12 +44,14 @@ body {
 h1 {
     color: orange;
     text-align: center;
+    height: 100px;
+    border: 1px solid AliceBlue;
 }
 
 p {
     font-family: "Times New Roman";
-    font-size: 12px;
-    border: 1px solid AliceBlue;
+    font-size: 14px;
+    border: 1px dashed Brown;
 }
 ```
 Save this into a text file as called “my_styles_v1.css”.

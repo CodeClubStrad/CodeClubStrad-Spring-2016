@@ -36,9 +36,7 @@ h1 {
 p {
     font-family: "Times New Roman";
     font-size: 12px;
-    width: 70px;
-    height: 300px;
-    border: 1px solid Aqua;
+    border: 1px solid AliceBlue;
 }
 
 Reload the webpage. What happens?
@@ -70,5 +68,12 @@ Arial Black
 Courier New
 
 ###Some alignments to try
+left
+right
+
+###Some border options to try
+border-width	Specifies the width of the border. Default value is "medium"
+border-style	Specifies the style of the border. Default value is "none"
+border-color	Specifies the color of the border. Default value is the color of the element
 
 For more ideas see http://www.w3schools.com/css/default.asp

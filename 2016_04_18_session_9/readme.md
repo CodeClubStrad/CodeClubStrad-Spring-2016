@@ -3,7 +3,8 @@
 ##HTML example
 Save this into a text file called (for example) “my_webpage.html”:
 
-'''html
+'''
+html
 <html>
 <head>
 <title>Title of page</title>
@@ -26,7 +27,8 @@ Now add this line after the </title> tag:
 
 And now save this into a text file as (for example) “my_styles_v1.css”:
 
-'''css
+'''
+css
 body {
     background-color: lightblue;
 }

@@ -21,7 +21,7 @@ Save this into a text file called (for example) “my_webpage.html”:
 ```
 
 ##CSS example
-Now add this line after the ```html </title>``` tag:
+Now add this line after the ```</title>``` tag:
 ```html
 <link rel="stylesheet" type="text/css" href="my_styles_v1.css">
 ```

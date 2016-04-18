@@ -1,7 +1,9 @@
 #How to make webpages
+Make a new folder in 'Documents' called 'html'.
+Open the text editor on the Pi (usually on the Accessories menu).
 
 ##HTML example
-Save this into a text file called (for example) “my_webpage.html”:
+Type this into a new file:
 
 ```html
 <html>
@@ -19,6 +21,13 @@ Save this into a text file called (for example) “my_webpage.html”:
 </body>
 </html>
 ```
+Save this into a text file called (for example) “my_webpage.html” in the 'html' folder.
+
+Now open it in the web browser (Internet -> Epiphany).
+
+What do you see?
+
+Dull isn't it?
 
 ##CSS example
 Now add this line after the ```</title>``` tag:

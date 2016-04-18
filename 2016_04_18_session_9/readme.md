@@ -54,7 +54,7 @@ p {
     border: 1px dashed Brown;
 }
 ```
-Save this into a text file as called “my_styles_v1.css”.
+Save this into a text file called “my_styles_v1.css” and make sure it is in the same folder as the html file.
 
 Now reload the webpage. 
 

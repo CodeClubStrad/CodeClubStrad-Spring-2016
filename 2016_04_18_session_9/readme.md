@@ -1,4 +1,4 @@
-#How to make webpages
+#How to make web pages
 Make a new folder in 'Documents' called 'html'.
 Open the text editor on the Pi (usually on the Accessories menu).
 

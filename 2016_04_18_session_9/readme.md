@@ -66,10 +66,10 @@ Coral
 CornflowerBlue
 
 ###Some fonts to try
-Book Antiqua
-Comic Sans MS
-Arial Black
-Courier New
+"Book Antiqua"
+"Comic Sans MS"
+"Arial Black"
+"Courier New"
 
 ###Some alignments to try
 left

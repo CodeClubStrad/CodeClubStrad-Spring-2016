@@ -47,6 +47,7 @@ p {
 Now reload the webpage. What happens?
 
 ###Some colours to try
+```
 AliceBlue
 AntiqueWhite
 Aqua
@@ -65,20 +66,27 @@ Chartreuse
 Chocolate
 Coral
 CornflowerBlue
+```
 
 ###Some fonts to try
+```
 "Book Antiqua"
 "Comic Sans MS"
 "Arial Black"
 "Courier New"
+```
 
 ###Some alignments to try
+```
 left
 right
+```
 
 ###Some border options to try
+```
 border-width	Specifies the width of the border. Default value is "medium"
 border-style	Specifies the style of the border. Default value is "none"
 border-color	Specifies the color of the border. Default value is the color of the element
+```
 
 For more ideas see http://www.w3schools.com/css/default.asp

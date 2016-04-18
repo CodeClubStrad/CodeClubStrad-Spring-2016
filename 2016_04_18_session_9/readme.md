@@ -84,8 +84,8 @@ right
 
 ###Some border options to try
 ```
-border-width	Specifies the width of the border. Default value is "medium"
-border-style	Specifies the style of the border. Default value is "none"
+border-width	Specifies the width of the border. Default value is "medium" - try pixel sizes
+border-style	Specifies the style of the border. Default value is "none" - try dotted, double or dashed
 border-color	Specifies the color of the border. Default value is the color of the element
 ```
 

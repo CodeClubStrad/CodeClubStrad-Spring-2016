@@ -2,10 +2,10 @@
 Contains all code week by week for the [Stradbroke High School](http://www.stradbrokehigh.co.uk/) Code Club during the spring term 2016. You can re-use any of the code under the [MIT License](LICENSE.md).
 
 We'll be using the credit card sized Raspberry Pi computers to try:
- * Programming [Minecraft](http://pi.minecraft.net/) with [Python](http://www.stuffaboutcode.com/p/minecraft.html);
- * Programming music with [SonicPi](http://sonic-pi.net/);
- * Linking them together to do SonicMinecraft :-);
- * Coding a basic [html](http://www.w3schools.com/html/default.asp) web page and then enhancing it with [CSS](http://www.w3schools.com/css/default.asp) and [javascript](http://www.w3schools.com/js/default.asp).
+ * Programming [Minecraft](http://pi.minecraft.net/) with [Python](http://www.stuffaboutcode.com/p/minecraft.html)
+ * Programming music with [SonicPi](http://sonic-pi.net/)
+ * Linking them together to do SonicMinecraft :-)
+ * Coding a basic [html](http://www.w3schools.com/html/default.asp) web page and then enhancing it with [CSS](http://www.w3schools.com/css/default.asp) and [javascript](http://www.w3schools.com/js/default.asp)
 
 For Minecraft Pi we'll be making a lot of use of:
  * Craig Richardson's brilliant [learning python with Minecraft Pi](https://www.raspberrypi.org/blog/learning-python-using-codecademy/) book;

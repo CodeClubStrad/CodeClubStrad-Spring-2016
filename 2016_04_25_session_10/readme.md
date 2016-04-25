@@ -3,7 +3,7 @@ If you didn't already do it in [session_9](../2016_04_18_session_9/), make a new
 
 Open the text editor on the Pi (usually on the Accessories menu).
 
-##Javascript example: telling the time
+##Javascript example 1: telling the time
 Type this into a new file:
 
 ```html
@@ -34,7 +34,7 @@ What do you see?
 
 Click the button - what happens? And again?
 
-##CSS styles
+## Adding CSS styles
 Now add this line after the ```</title>``` tag:
 ```html
 <link rel="stylesheet" type="text/css" href="css/my_styles_v1.css">
@@ -65,7 +65,7 @@ Now reload the webpage.
 
 What happens? You can change any of the styles - see the reference section below for some options to try.
 
-## Combining javascript and css
+## Javascript example 2: Combining javascript and css
 Remember the button that told the time? We can make it change styles instead. Copy your first javascript file and change it to be:
 
 ```html
@@ -76,12 +76,20 @@ Remember the button that told the time? We can make it change styles instead. Co
 <link rel="stylesheet" type="text/css" href="css/my_styles_v1.css">
 </head>
 <body>
-<h1>Changing the font colour</h1>
-
-<button type="button" document.getElementById("demo").style.fontSize = "25px";>
-Click me to change my font size.</button>
+<h1>Changing the font</h1>
 
 <p id="demo">Some random text.</p>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("demo");
+    x.style.fontSize = "25px";           
+    x.style.color = "red"; 
+    x.innerHTML = "Some random text which we have changed!";
+}
+</script>
 
 </body>
 </html> 
@@ -93,6 +101,7 @@ Put the two images from the USB stick into the 'media' folder you created earlie
 
 Now make a new text file (or copy the one above) and type this into it:
 
+```html
 <!DOCTYPE html>
 <html>
 <head>

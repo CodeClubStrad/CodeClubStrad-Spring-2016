@@ -182,3 +182,5 @@ border-color	Specifies the color of the border. Default value is the color of th
 ```
 
 For more ideas see http://www.w3schools.com/css/default.asp
+
+Examples adapted from http://www.w3schools.com/js/default.asp

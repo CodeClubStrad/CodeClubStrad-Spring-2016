@@ -28,7 +28,7 @@ Click me to display Date and Time.</button>
 ```
 Save this into a text file called (for example) “my_javascript_time.html” in the 'html' folder.
 
-Now open it in the web browser (Internet -> Epiphany).
+Now open it in the web browser (Internet -> Web browser).
 
 What do you see?
 

@@ -96,7 +96,7 @@ function myFunction() {
 ```
 Save this in to the html folder and load it in to the web browser.  Click the button. What happens?
 
-## Javascript example 3:Turning on the light
+## Javascript example 3: Turning on the light
 Put the two images from the USB stick into the 'media' folder you created earlier.
 
 Now make a new text file (or copy the one above) and type this into it:

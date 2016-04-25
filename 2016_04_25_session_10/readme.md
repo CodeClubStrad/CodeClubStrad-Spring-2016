@@ -1,10 +1,8 @@
 #How to add javascript to your web pages
 If you didn't already do it in [session_9](../2016_04_18_session_9/), make a new folder in 'Documents' called 'html'. Inside this new folder make two more folders, one called 'media' and one called 'css'.
 
-Open the text editor on the Pi (usually on the Accessories menu).
-
 ##Javascript example 1: telling the time
-Type this into a new file:
+Open the text editor on the Pi (usually on the Accessories menu) and type this into a new file:
 
 ```html
 <!DOCTYPE html>
@@ -26,11 +24,7 @@ Click me to display Date and Time.</button>
 </body>
 </html> 
 ```
-Save this into a text file called (for example) “my_javascript_time.html” in the 'html' folder.
-
-Now open it in the web browser (Internet -> Web browser).
-
-What do you see?
+Save this into a text file called (for example) “my_javascript_time.html” in the 'html' folder and open it in the web browser (Internet -> Web browser). What do you see?
 
 Click the button - what happens? And again?
 
@@ -59,9 +53,7 @@ p {
     border: 1px dashed Brown;
 }
 ```
-Save this into a text file called “my_styles_v1.css” in the 'css' folder you made earlier.
-
-Now reload the webpage. 
+Save this into a text file called “my_styles_v1.css” in the 'css' folder you made earlier and reload the webpage. 
 
 What happens? You can change any of the styles - see the reference section below for some options to try.
 
@@ -97,9 +89,7 @@ function myFunction() {
 Save this in to the html folder and load it in to the web browser.  Click the button. What happens?
 
 ## Javascript example 3: Turning on the light
-Put the two images from the USB stick into the 'media' folder you created earlier.
-
-Now make a new text file (or copy the one above) and type this into it:
+Put the two images from the USB stick into the 'media' folder you created earlier. Now make a new text file (or copy the one above) and type this into it:
 
 ```html
 <!DOCTYPE html>
@@ -146,17 +136,13 @@ Aqua
 Aquamarine
 Azure
 Beige
-Bisque
 Black
 BlanchedAlmond
-Blue
 BlueViolet
 Brown
 BurlyWood
 CadetBlue
-Chartreuse
 Chocolate
-Coral
 CornflowerBlue
 ```
 

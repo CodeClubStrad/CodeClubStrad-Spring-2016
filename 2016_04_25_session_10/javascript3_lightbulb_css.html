@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My third javascript test: light bulb</title>
+<link rel="stylesheet" type="text/css" href="css/my_styles_v1.css">
+</head>
+<body>
+<h1>Turning the light on!</h1>
+
+<p>Click the light bulb to turn on/off the light.</p>
+
+<img id="myImage" onclick="changeImage()" src="media/pic_bulb_off.gif" width="100" height="180">
+
+<p id="demo">The bulb is: Off</p>
+
+<script>
+function changeImage() {
+    var text = document.getElementById("demo");
+    var image = document.getElementById('myImage');
+    if (image.src.match("bulb_on")) {
+        image.src = "media/pic_bulb_off.gif";
+        text.innerHTML = "The bulb is: Off";
+    } else {
+        image.src = "media/pic_bulb_on.gif";
+        text.innerHTML = "The bulb is: On";
+    }
+}
+</script>
+
+</body>
+</html>

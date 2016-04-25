@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My second javascript test</title>
+<link rel="stylesheet" type="text/css" href="css/my_styles_v1.css">
+</head>
+<body>
+<h1>Changing the font</h1>
+
+<p id="demo">Some random text.</p>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("demo");
+    x.style.fontSize = "25px";           
+    x.style.color = "red"; 
+    x.innerHTML = "Some random text which we have changed!";
+}
+</script>
+
+</body>
+</html> 

@@ -39,11 +39,11 @@ Well done, you have written a junction in javascript :-)
 Save this in to the html folder and load it in to the web browser.  Click the button. What happens?
 
 ## Javascript example 3:Turning on the light
-Put the two images from the USB stick into the 'media' folder you created earlier. Ff you can't find them they are at http://www.w3schools.com/js/js_intro.asp. You need the two light bulbs (on & off).
+Put the two images from the USB stick into the 'media' folder you created earlier. If you can't find them they are at http://www.w3schools.com/js/js_intro.asp. You need the two light bulbs (on & off).
 
 Now make a new text file (or copy the one above) and type something like [this](javascript3_lightbulb_css.html) into it. Of course you could leave out the horrrible css formating or improve it.
 
-Save this into the html folder and load it in to the web browser. Click the button - what happens?
+Save this into the html folder and load it in to the web browser. Click the light bulb - what happens?
 
 ## Reference
 

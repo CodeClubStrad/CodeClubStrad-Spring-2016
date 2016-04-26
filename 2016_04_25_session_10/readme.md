@@ -5,14 +5,11 @@
 #How to add javascript to your web pages
 If you didn't already do it in [session_9](../2016_04_18_session_9/), make a new folder in 'Documents' called 'html'. Inside this new folder make two more folders, one called 'media' and one called 'css'.
 
-Open the text editor on the Pi (usually on the Accessories menu).
-
 ##Javascript example 1: telling the time
+
 Have a look at the [code](javascript1_time.html).
 
 Open it in the web browser (Internet -> Epiphany).
-
-What do you see?
 
 Click the button - what happens? And again?
 
@@ -53,17 +50,13 @@ Aqua
 Aquamarine
 Azure
 Beige
-Bisque
 Black
 BlanchedAlmond
-Blue
 BlueViolet
 Brown
 BurlyWood
 CadetBlue
-Chartreuse
 Chocolate
-Coral
 CornflowerBlue
 ```
 

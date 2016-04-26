@@ -37,5 +37,5 @@ And in case you hadn't noticed, the national [Code Club](https://www.codeclub.or
  * [Session 7](2016_02_29_session_7): 07/3/2016 
  * [Session 8](2016_03_14_session_8): 14/3/2016 - in which we use SonicPi to make musical walls and towers
  * [Session 9](2016_04_18_session_9): 18/4/2016 - in which we try to build a very basic web page and experiment with CSS
- * [Session 10](2016_04_25_session_10): 25/4/2016 - in which we attempted to write an interactive web page using javascript
+ * [Session 10](2016_04_25_session_10): 25/4/2016 - in which we attempted to write an interactive web page using javascript before discovering that the pre-Epiphany web browser did not support onClick events on buttons :-(
 

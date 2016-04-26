@@ -1,7 +1,7 @@
     Warning!
     
-    The examples below were tested on and work with the Epiphany web browser. They do not
-    necessarily work on earlier web browsers on RPi. 
+    The examples below were tested on and work with the Epiphany web browser. As we discovered,
+    they do not necessarily work with earlier web browsers on RPi. 
 
     For example we have found that the onClick handler is not always implemented.
     

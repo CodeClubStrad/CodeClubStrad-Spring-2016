@@ -1,5 +1,10 @@
     Warning!
-    The examples below were tested on and work with the Epiphany web browser, it does not necessarily work on earlier web browsers on RPi. For example we have found that the onClick handler is not always implemented.
+    
+    The examples below were tested on and work with the Epiphany web browser. They do not
+    necessarily work on earlier web browsers on RPi. 
+
+    For example we have found that the onClick handler is not always implemented.
+    
     # Frustrating
 
 #How to add javascript to your web pages
